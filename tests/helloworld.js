@@ -1,5 +1,6 @@
-function sayHello(what) {
-    return "Hello " + what;
+
+const sayHello = () => {
+    return "Hello" ;
   }
 
   export default sayHello;
